@@ -19,6 +19,8 @@
 			font:'NaiYou10f0e8f90f17f4f';
 			font-size: 110px;
 			color: #fff;
+			position:relative;
+			top:60px;
 		}
 		.biaoqian{
 			font-family:'NaiYou10f2c08ef417f4f';
