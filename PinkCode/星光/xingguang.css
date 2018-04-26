@@ -126,7 +126,7 @@
 			-moz-text-shadow:0px 0px 6px #fff;
 			-ms-text-shadow:0px 0px 6px #fff;
 	    }
-	    .grid {
+	     .grid {
 			margin: 0;
 			padding: 0;
 			list-style: none;
@@ -136,7 +136,7 @@
 	        overflow-x:hidden;
 		}
 		.grid li {
-			position: relative;
+			position: absolute;
 			float: left;
 			font-size: 12em;
 			text-align: center;
@@ -152,10 +152,10 @@
 			color:#BEC8C9;
 			z-index: 1;
 		}
-	    .ot-letter-left { width: 42%;background: #000;height: 1200px;}
-		.ot-letter-right { width: 58%;background: #000;height: 1200px;}
-		.ot-letter-top { width: 42%;background: #000; height: 460px;}
-		.ot-letter-bottom { width: 58%;background: #000;height: 460px;background: url(https://chengjiaoyuan.github.io/Aning/PinkCode/%E6%98%9F%E5%85%89/%E5%86%8D%E9%81%87%E6%9C%AA%E6%9D%A5.png) no-repeat;}
+	        .ot-letter-left { top:0px;left:0px;width: 42%;background: #000;height: 1200px;}
+		.ot-letter-right { top:0px;left:42%;width: 58%;background: #000;height: 1200px;}
+		.ot-letter-top {  top:1200px;left:0px;width: 42%;background: #000; height: 460px;}
+		.ot-letter-bottom { top:1200px;left:42%;width: 58%;background: #000;height: 460px;background: url(https://chengjiaoyuan.github.io/Aning/PinkCode/%E6%98%9F%E5%85%89/%E5%86%8D%E9%81%87%E6%9C%AA%E6%9D%A5.png) no-repeat;}
 		.star>li{position: absolute; z-index: 102;}
 		.star>li:nth-child(5n){ 
 			width:4px; 
@@ -262,7 +262,7 @@
 			color: #fff;
 			width: 310px;
 			position: relative;
-			left:-10px;
+			left:30px;
 			text-align: left;
 		    font-family:"Microsoft YaHei","Songti SC", "STSong", "SimSun";
 		    font: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
