@@ -13,6 +13,7 @@
 			-moz-text-shadow:0px 0px 1px #fff;
 			-ms-text-shadow:0px 0px 1px #fff;
 			background-color: #000;
+			color:#fff;
 		}
 		ol{
 			list-style:none;
