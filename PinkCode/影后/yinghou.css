@@ -17,9 +17,9 @@
 			list-style:none;
 			float: left;
 		}
-		.st SPAN{FONT-SIZE:14PX;PADDING:0 2PX;}
+		.st SPAN{FONT-SIZE:12PX;PADDING:0 2PX;}
 		.lyric{position:relative;TOP:-20PX;WIDTH:840PX}
-		.lyric P{WIDTH:790PX;HEIGHT:180PX;font-size: 14px;}
+		.lyric P{WIDTH:790PX;HEIGHT:180PX;font-size: 12px;}
 		.lyric FONT{COLOR:#4d3d3d;text-shadow:0px 0px 1px #4d3d3d;-o-text-shadow:0px 0px 1px #4d3d3d;-webkit-text-shadow:0px 0px 1px #4d3d3d;-moz-text-shadow:0px 0px 1px #4d3d3d;-ms-text-shadow:0px 0px 1px #4d3d3d;font-size: 16px;}
 		.lyric SPAN{COLOR:#AEAEAE;text-shadow:0px 0px 1px #AEAEAE;-o-text-shadow:0px 0px 1px #AEAEAE;-webkit-text-shadow:0px 0px 1px #AEAEAE;-moz-text-shadow:0px 0px 1px #AEAEAE;-ms-text-shadow:0px 0px 1px #AEAEAE;font-size: 16px;}
 		a{text-decoration: none;}
