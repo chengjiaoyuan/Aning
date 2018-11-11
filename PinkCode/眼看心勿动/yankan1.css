@@ -94,8 +94,8 @@
 		}
 		#cast{
 			position: relative;
-			left: -30px;
-			top:-15px;
+			left: 10px;
+			top:0px;
 		}
 		#cast li{
 			float: left;
@@ -199,6 +199,13 @@
 			top: 36px;
 			position: absolute;
 			display: block;
+			border: 5px solid #ccc;
+			border-radius: 50%;
+			-o-border-radius: 50%;
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			-ms-border-radius: 50%;
+			z-index: 200;
 		}
 
 		.event input[type="radio"] {
@@ -209,39 +216,19 @@
 
 		.event label:after {
 			font-family: 'fontawesome-selected';
-			content: '\e702';
+			content: '\2664';
 			background: #fff;
 			border-radius: 50%;
 			color: #e5b27b;
 			font-size: 26px;
 			height: 100%;
 			width: 100%;
-			left: -2px;
-			top: -3px;
+			left: 0px;
+			top: 0px;
 			line-height: 24px;
 			position: absolute;
 			text-align: center;
-		}
-
-		.content-perspective {
-			margin-left: 230px;
-			position: relative;
-			-webkit-perspective: 600px;
-			-moz-perspective: 600px;
-			-o-perspective: 600px;
-			-ms-perspective: 600px;
-			perspective: 600px;
-		}
-
-		.content-perspective:before {
-			content: '';
-			width: 37px;
-			left: -51px;
-			top: 45px;
-			position: absolute;
-			height: 1px;
-			z-index: -1;
-			background: #fff;
+			z-index: 200;
 		}
 
 		.content {
