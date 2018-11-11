@@ -178,7 +178,7 @@
 			font-size: 13px;
 			text-transform: uppercase;
 			position: absolute;
-			bottom: -32px;
+			bottom: -22px;
 			left: 0px;
 		}
 
@@ -256,7 +256,7 @@
 			width: 260px;
 			height: 220px;
 			position: relative;
-			left: 200px;
+			left: 220px;
 			padding: 20px;
 			color: #333;
 			border: none;
@@ -341,7 +341,7 @@
 			font-size: 13px;
 			text-transform: uppercase;
 			position: absolute;
-			bottom: -32px;
+			bottom: -22px;
 			left: 0px;
 		}
 
@@ -443,7 +443,7 @@
 			width: 280px;
 			height: 260px;
 			position: relative;
-			left: 45px;
+			left: 25px;
 			padding: 20px;
 			color: #333;
 			border: none;
