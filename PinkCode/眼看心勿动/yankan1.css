@@ -139,7 +139,7 @@
 			width: 5px;
 			height: 100%;
 			top: 0;
-			left: 165px;
+			left: 168px;
 			background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJUlEQVQIW2NkQAP/gYARWQwkAOLDBeECjEAAkkEWAKtEFwAJAgAZEBP+oM1IkwAAAABJRU5ErkJggg==);
 		}
 		.event {
@@ -414,7 +414,6 @@
 			right: -45px;
 			top: 45px;
 			position: absolute;
-			height: 1px;
 			z-index: -1;
 			background: #fff;
 		}
