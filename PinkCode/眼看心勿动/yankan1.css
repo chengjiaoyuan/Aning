@@ -232,11 +232,6 @@
 		}
 
 		.content {
-			-webkit-transform: rotateY(6deg);
-			-moz-transform: rotateY(6deg);
-			-o-transform: rotateY(6deg);
-			-ms-transform: rotateY(6deg);
-			transform: rotateY(6deg);
 
 			-webkit-transform-origin: 0 0;
 			-moz-transform-origin: 0 0;
@@ -418,12 +413,7 @@
 		}
 
 		.content2 {
-			-webkit-transform: rotateY(6deg);
-			-moz-transform: rotateY(6deg);
-			-o-transform: rotateY(6deg);
-			-ms-transform: rotateY(6deg);
-			transform: rotateY(6deg);
-
+		
 			-webkit-transform-origin: 0 0;
 			-moz-transform-origin: 0 0;
 			-o-transform-origin: 0 0;
