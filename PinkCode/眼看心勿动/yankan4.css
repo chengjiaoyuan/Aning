@@ -662,7 +662,8 @@
 		  -moz-text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
 		  -ms-text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
 		  /* Clip Background Image */
-		  background: url(http://www.jq22.com/tp/6367654292305515361482753.png) repeat-y;
+		  color: rgba(255, 255, 255, 0.6);
+		  background: url(https://chengjiaoyuan.github.io/Aning/PinkCode/%E7%9C%BC%E7%9C%8B%E5%BF%83%E5%8B%BF%E5%8A%A8/bg.png) repeat-y;
 		  -webkit-background-clip: text;
 		  -o-background-clip: text;
 		  -ms-background-clip: text;
