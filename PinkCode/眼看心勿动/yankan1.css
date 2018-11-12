@@ -216,7 +216,7 @@
 
 		.event label:after {
 			font-family: 'fontawesome-selected';
-			content: '\2664';
+			content: '\2605';
 			background: #fff;
 			border-radius: 50%;
 			color: #e5b27b;
