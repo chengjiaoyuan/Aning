@@ -957,7 +957,7 @@
 		            transform: translateY(300px);
 		  }
 		}
-		.radar {
+		/*.radar {
 		  width: 75vw;
 		  height: 75vw;
 		  max-height: 75vh;
@@ -1011,7 +1011,7 @@
 		  -webkit-animation-timing-function: linear;
 		  -webkit-transform-origin: bottom right;
 		  -webkit-border-radius: 100% 0 0 0;
-		}
+		}*/
 		@keyframes radar-beam {
 		  0% {
 		    transform: rotate(0deg);
