@@ -129,6 +129,9 @@
 			font:'HoangYen11';
 			face:'HoangYen11';
 		}
+		.circular td{
+			line-height: 1.2;
+		}
 		.zipper_line.o-left {
 		  -webkit-transform: scaleX(-1);
 		  -o-transform: scaleX(-1);
@@ -1057,7 +1060,7 @@
 			color: #fff;
 			width: 320px;
 			position: relative;
-			left:40px;
+			left:80px;
 			text-align: left;
 		}
 		#cast li span{
@@ -1236,4 +1239,9 @@
 		}
 		.linking:before{
 			content:'\25BA';
+		}
+		.ziti{
+			font-family:'HanWangT000716182f081017f4f';
+			font:'HanWangT000716182f081017f4f';
+			face:'HanWangT000716182f081017f4f'
 		}
