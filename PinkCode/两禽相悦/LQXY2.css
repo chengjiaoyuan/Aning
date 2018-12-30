@@ -8,6 +8,7 @@
 			font-family:"Microsoft YaHei","Songti SC", "STSong", "SimSun";
 		    font: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
 			face: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
+			color: #676767;
 		}
 		ol{
 			list-style:none;
@@ -196,7 +197,11 @@
 			position: relative;
 			left: 0px;
 		}
-		.pics{ width:1000px; height:656px;} 
+		.pics{ 
+			width:1000px; height:656px;
+			background-size: 1000px 656px;
+			background:url("https://chengjiaoyuan.github.io/Aning/PinkCode/%E4%B8%A4%E7%A6%BD%E7%9B%B8%E6%82%A6/%E6%B5%B7%E6%8A%A5.jpg") no-repeat; 
+		} 
 		#cast li{
 			float: left;
 			height:20px;
@@ -208,7 +213,7 @@
 			text-align: center;
 			border-bottom: 1px dashed #ccc;
 			position: relative;
-			left: 23px;
+			left: 3px;
 		}
 		#link {
 			width: 800px;
