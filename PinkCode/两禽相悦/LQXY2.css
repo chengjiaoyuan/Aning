@@ -196,7 +196,7 @@
 			position: relative;
 			left: 0px;
 		}
-		.bg1 img{ width:1000px; height:656px} 
+		.pics{ width:1000px; height:656px;} 
 		#cast li{
 			float: left;
 			height:20px;
@@ -207,6 +207,8 @@
 			margin-top:3px;
 			text-align: center;
 			border-bottom: 1px dashed #ccc;
+			position: relative;
+			left: 23px;
 		}
 		#link {
 			width: 800px;
