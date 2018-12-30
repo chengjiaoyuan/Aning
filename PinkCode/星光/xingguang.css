@@ -112,14 +112,11 @@
 	      }
 	    }
 	    .title td{
-	    	font-family:'HanWangT000711921f82b117f4f';
-	        font:'HanWangT000711921f82b117f4f';
-	        face:'HanWangT000711921f82b117f4f';
 	        color: #fff;
 	        width: 120px;
 	        height: 120px;
 	        text-align: center;
-	        font-size: 96px;
+	        font-size: 80px;
 	        text-shadow:0px 0px 6px #fff;
 			-o-text-shadow:0px 0px 6px #fff;
 			-webkit-text-shadow:0px 0px 6px #fff;
