@@ -196,6 +196,7 @@
 			position: relative;
 			left: 0px;
 		}
+		.bg1 img{ width:1000px; height:656px} 
 		#cast li{
 			float: left;
 			height:20px;
