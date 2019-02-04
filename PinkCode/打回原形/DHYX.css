@@ -53,7 +53,6 @@
 			position:relative;
 			left:50%;
 			overflow-x:hidden;
-			background:#030511;
 			/*font-family:"Microsoft YaHei","Songti SC", "STSong", "SimSun";
 		    font: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
 			face: "Microsoft YaHei","Songti SC", "STSong", "SimSun";*/
@@ -69,22 +68,6 @@
 		  font-style: normal;
 		  color:#fff;
 		}
-/*		::-webkit-scrollbar {
-		  background: #000;
-		  width: 1vw;
-		}
-		::-webkit-scrollbar-thumb {
-		  background: #FFF;
-		  border-top: #EFECEA 2px solid;
-		  border-bottom: #EFECEA 2px solid;
-		}*/
-	/*	[class^="comment"] .read #topic {
-		  position: relative;
-		  width: 1px;
-		  height: 100vh;
-		  min-height: 700px;
-		  margin: 0 auto;
-		}*/
 		ol{
 			list-style:none;
 			text-align:center;
