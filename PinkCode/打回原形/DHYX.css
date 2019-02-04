@@ -101,12 +101,15 @@
 	        background:#030511;
 	    }
 	    #frame{
-	    	width:100%;
+	        width:100%;
 	    	height: auto;
+	    	margin: 0px auto;
+	    	display: block;
 	    	position: absolute;
 	    	top: 0px;
 	    	left: 0%;
 	    	background-color: #030511;
+	    	overflow-x:hidden;
 	    }
 	    .bg1{
 	    	width: 1000px;
