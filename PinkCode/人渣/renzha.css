@@ -262,3 +262,10 @@
 			background-color: #fff;
 			color: #101010;
 		} 
+		.pic{
+			background: url("https://chengjiaoyuan.github.io/Aning/PinkCode/%E4%BA%BA%E6%B8%A3/%E6%B5%B7%E6%8A%A5.jpg") no-repeat;
+			width: 1000px;
+			height: 500px;
+			background-size: 1000px 500px;
+			display: block;
+		}
