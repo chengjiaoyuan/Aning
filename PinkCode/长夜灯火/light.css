@@ -800,3 +800,11 @@
 	            transform: rotate(405deg);
 	  }
 	}
+	.pic{
+		background:url(https://chengjiaoyuan.github.io/Aning/PinkCode/%E9%95%BF%E5%A4%9C%E7%81%AF%E7%81%AB/top.png) no-repeat center;
+		background-size: 800px 315px;
+		width: 800px;
+		height: 315px;
+		z-index: 300;
+		border:1px solid #b2bfc8;
+	}
