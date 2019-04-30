@@ -1,0 +1,268 @@
+body{
+               margin-left:-50%; 
+               width:100%;
+               position:relative;
+               left:50%;
+               overflow-x:hidden;
+               background:#9da9b6;
+               font-family:"Microsoft YaHei","Songti SC", "STSong", "SimSun";
+              font: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
+               face: "Microsoft YaHei","Songti SC", "STSong", "SimSun";
+          }
+          ol{
+               list-style:none;
+               text-align:center;
+          }
+          ol li{
+               list-style:none;
+               float: left;
+          }
+          a{text-decoration: none;}
+          @font-face {
+            font-family: 'FZSJSJW';  /* project id 1016883 */
+            src: url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.eot');
+            src: url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.eot?#iefix') format('embedded-opentype'),
+            url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.woff2') format('woff2'),
+            url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.woff') format('woff'),
+            url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.TTF') format('truetype'),
+            url('https://chengjiaoyuan.github.io/Aning/Font/FZSJSJW/FZSJSJW.svg#iconfont') format('svg');
+          }
+          .icon {
+            font-family: "iconfont";
+            font-size: 16px;
+            color:#fff;
+            font-style: normal;
+            -webkit-font-smoothing: antialiased;
+            -moz-font-smoothing: grayscale;
+          }
+         ::-webkit-scrollbar-thumb {background:#302D40;}
+         ::-webkit-scrollbar-button{background:#302D40;HEIGHT:12px;}
+          .bg-flower {
+             position: absolute;
+             top: 0;
+             left: 0;
+             width:100%;
+             height:auto;
+             background: #9da9b6;
+             overflow-x:hidden;
+         }
+         #frame{
+          width:100%;
+          height: auto;
+          margin: 0px auto;
+          display: block;
+          position: absolute;
+          top: 0px;
+          left: 0%;
+          background: #9da9b6;
+         }
+         .bg1{
+          width: 800px;
+          height: 1300px;
+          background:transparent;
+         }
+         .top li{
+          width: 120px;
+          height: 50px;
+          border-right: 1px solid #b2bfc8;
+          font-size: 12px;
+          line-height: 50px;
+          font-family: 'FZSJSJW';
+          face: 'FZSJSJW';
+          color: #fff;
+         }
+         .top{
+          padding: 0px;
+         }
+         .cebian{
+          margin: 0px;
+          padding: 0px;
+          width: 200px;
+          position: absolute;
+          left: 0px;
+         }
+         .cebian li{
+          float: left;
+          width: 100%;
+          border-bottom: 1px dashed #b2bfc8;
+          height: 26px;
+          line-height: 26px;
+          font-size: 13px;
+          color: #2a2f33;
+          font-family: 'FZSJSJW';
+          face: 'FZSJSJW';
+          text-align: center;
+          font-weight: bold;
+          position: relative;
+          top:20px;
+         }
+         .cebian li:after{
+              content: '\00BB';
+              color: #a2b6c5;
+              font-size: 12px;
+              position: relative;
+              left: -50px;
+              bottom: 0px;
+              cursor: pointer;
+          }
+          .menu{
+               font-family: 'FZSJSJW';
+          face: 'FZSJSJW';
+          font-weight: bold;
+          }
+          .sc{
+               position: relative;
+               top:20px;
+               margin: 0px;
+               padding: 0px;
+               width: 550px;
+          }
+          .sc td{
+               font-family: 'FZSJSJW';
+               face: 'FZSJSJW';
+               font-size: 12px;
+               color: #fff;
+               height: 25px;
+               line-height: 25px;
+               color: #000;
+               border-bottom: 1px dashed #b2bfc8;
+               text-align: left;
+               width: 50%;
+               padding-left: 45px;
+          }
+          .sc td span:nth-child(odd){
+               font-size: 12px;
+               color: #2a2f33;
+               font-weight: bold;
+          }
+          .sc td span:nth-child(even){
+               font-size: 12px;
+               color: #a2b6c5;
+          }
+          .link{
+               position: relative;
+               height: 36px;
+               line-height: 36px;
+               color:#2a2f33;
+               font-family: 'FZSJSJW';
+          face: 'FZSJSJW';
+               font-size: 12px;
+               font-weight: bold;
+               padding-left: 40px;
+          }
+          .link:hover:after,
+              .link:hover:before {
+            width: 100%;
+            left: 0px;
+          }
+
+          .link:after,
+            .link:before {
+            content: '';
+            position: absolute;
+            top: 35px;
+            width: 0;
+            right: 0;
+            height: 2px;
+            border-radius: 2px;
+            -o-border-radius: 2px;
+            -webkit-border-radius: 2px;
+            -moz-border-radius: 2px;
+            -ms-border-radius: 2px;
+          }
+
+          .link:before {
+            -webkit-transition: width .25s cubic-bezier(0.51, 0.18, 0, 0.88) .5s;
+            -o-transition: width .25s cubic-bezier(0.51, 0.18, 0, 0.88) .5s;
+            -ms-transition: width .25s cubic-bezier(0.51, 0.18, 0, 0.88) .5s;
+            -moz-transition: width .25s cubic-bezier(0.51, 0.18, 0, 0.88) .5s;
+                    transition: width .25s cubic-bezier(0.51, 0.18, 0, 0.88) .5s;
+            background: #a2b6c5;
+          }
+
+          .link:after {
+            -webkit-transition: width .6s cubic-bezier(0.29, 0.18, 0.26, 0.83);
+            -o-transition: width .6s cubic-bezier(0.29, 0.18, 0.26, 0.83);
+            -moz-transition: width .6s cubic-bezier(0.29, 0.18, 0.26, 0.83);
+            -ms-transition: width .6s cubic-bezier(0.29, 0.18, 0.26, 0.83);
+                    transition: width .6s cubic-bezier(0.29, 0.18, 0.26, 0.83);
+            background: #a2b6c5;
+          }
+          @font-face {
+            font-family: 'iconfont';  /* project id 1016883 */
+            src: url('http://at.alicdn.com/t/font_1016883_td56lx879w.eot');
+            src: url('http://at.alicdn.com/t/font_1016883_td56lx879w.eot?#iefix') format('embedded-opentype'),
+            url('http://at.alicdn.com/t/font_1016883_td56lx879w.woff2') format('woff2'),
+            url('http://at.alicdn.com/t/font_1016883_td56lx879w.woff') format('woff'),
+            url('http://at.alicdn.com/t/font_1016883_td56lx879w.ttf') format('truetype'),
+            url('http://at.alicdn.com/t/font_1016883_td56lx879w.svg#iconfont') format('svg');
+
+          }
+          .icon {
+            font-family: "iconfont";
+            font-size: 14px;
+            color:#a2b6c5;
+            font-style: normal;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+
+
+          .icon-bili:before {
+            content: "\e609";
+          }
+          .icon-mzhan:before {
+            content: "\e642";
+          }
+          .icon-wangpan:before {
+            content: "\e64d";
+          }
+          .icon-ed:before {
+            content: "\e612";
+          }
+          .icon-star:before {
+            content: "\e68f";
+            color: #a2b6c5;
+            font-size: 14px;
+          }
+          .icon-stars:before {
+            content: "\e642";
+            color: #a2b6c5;
+            font-size: 14px;
+          }
+          .ziti{
+               padding-left: 5px;
+          }
+          .ed{
+               font-family: 'FZSJSJW';
+          face: 'FZSJSJW';
+          position: relative;
+          right: 10px;
+          font-weight: bold;
+          color: #6b8496;
+          font-weight: bold;
+          }
+          .ed li{
+                 font-family: 'FZSJSJW';
+                 face: 'FZSJSJW';
+                 border-right:1px solid #b2bfc8;
+                 text-align: top;
+                 vertical-align: top;
+                 color: #6b8496;
+                 font-size: 12px;
+                 width: 15px;
+                 line-height: 15px;
+                 height: 165px;
+                 position: relative;
+                 left: -8px;
+                 top: -5px;
+          }
+          .ed li span:nth-child(odd){
+               font-size: 12px;
+               color: #2a2f33;
+               font-weight: bold;
+          }
+          .ed li span:nth-child(even){
+               font-size: 12px;
+               color: #a2b6c5;
+          }
