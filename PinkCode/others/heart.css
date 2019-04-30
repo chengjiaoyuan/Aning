@@ -254,8 +254,8 @@ body{
                  line-height: 15px;
                  height: 165px;
                  position: relative;
-                 left: -8px;
-                 top: -5px;
+                 left: 20px;
+                 top: 20px;
           }
           .ed li span:nth-child(odd){
                font-size: 12px;
@@ -265,4 +265,12 @@ body{
           .ed li span:nth-child(even){
                font-size: 12px;
                color: #a2b6c5;
+          }
+          .pic{
+            background:url('https://chengjiaoyuan.github.io/Aning/PinkCode/others/%E7%94%9C%E5%BF%83.png') no-repeat center;
+            background-size: 800px 380px;
+            width: 800px;
+            height: 380px;
+            z-index: 300;
+            border:1px solid #9aa5b3;
           }
