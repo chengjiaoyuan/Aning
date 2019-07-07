@@ -67,7 +67,7 @@
          }
          .bg1{
           width: 100%;
-          height: 1400px;
+          height: 1430px;
           background:#051f30 url('https://chengjiaoyuan.github.io/Aning/PinkCode/%E9%AC%BC%E8%BF%B7%E5%BF%83%E7%AA%8D/BG.jpg') no-repeat;
           background-size: 100% auto;
           -webkit-animation:fade 2s ease-in-out;
@@ -417,7 +417,7 @@
         }
         .bg2{
            width: 100%;
-           height: 1400px;
+           height: 1430px;
            -webkit-filter:brightness(1);
            -o-filter:brightness(1);
            -moz-filter:brightness(1);
@@ -1029,7 +1029,7 @@
           }
           .wrapper {
             width: 1200px;
-            height: 1400px;
+            height: 1430px;
             position: absolute;
             top: 0%;
             left: 0%;
@@ -1074,7 +1074,7 @@
           }
           .sec01:hover{
             width: 100%;
-            height: 1400px;
+            height: 1430px;
             background-repeat: no-repeat;
             cursor:pointer;
             -webkit-filter: grayscale(0%);
@@ -1152,8 +1152,8 @@
           .t1 span:nth-child(2n-1){font-family:'FZJTJW';color:#475c5f;font-size:12px;padding-left:3px;padding-right:3px;padding:top:1px;padding-bottom:1px;height: 15px;line-height: 15px;}
           .t1 span:nth-child(2n){height: 15px;line-height: 15px;font-size:12px;color:#475c5f;font-family:'FZJTJW';}
           .t1 td{
-            height: 15px;
-            line-height: 15px;
+            height: 18px;
+            line-height: 18px;
           }
           .intro{
             position:absolute;top:1020px;left:28%;text-align:left;font-size:12px;font-family:微软雅黑;color:#475c5f;z-index:15;WIDTH:820px;line-HEIGHT:18px;border-spacing:0;
