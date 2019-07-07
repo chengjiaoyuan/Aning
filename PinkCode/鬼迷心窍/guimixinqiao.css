@@ -1129,8 +1129,8 @@
           .gui{vertical-align:top;writing-mode:tb-rl;-webkit-writing-mode:tb-rl;-moz-writing-mode:tb-rl;-ms-writing-mode:tb-rl;-o-writing-mode:tb-rl;position:absolute;top:240px;left:120px;color:rgba(62,103,109,.5);font-size:120px;WIDTH:130px;HEIGHT:1110px;line-HEIGHT:130px;-webkit-transform:scale(2,1);transform:scale(2,1);-moz-transform:scale(2,1);-ms-transform:scale(2,1);-o-transform:scale(2,1);padding:0px;margin:0;font-family:'FZJTJW';z-index: 99;}
           .t1{
             font-family:'FZJTJW';color:#fff;font-size:13px;position:absolute;z-index:100;}
-          .t1 span:nth-child(2n-1){font-family:'FZJTJW';color:#475c5f;font-size:12px;padding-left:3px;padding-right:3px;padding:top:1px;padding-bottom:1px;height: 15px;line-height: 15px;}
-          .t1 span:nth-child(2n){height: 15px;line-height: 15px;font-size:12px;color:#475c5f;font-family:'FZJTJW';}
+          .t1 span:nth-child(2n-1){font-family:'FZJTJW';color:#475c5f;font-size:12px;padding-left:3px;padding-right:3px;padding:top:1px;padding-bottom:1px;height: 18px;line-height: 18px;}
+          .t1 span:nth-child(2n){height: 18px;line-height: 18px;font-size:12px;color:#475c5f;font-family:'FZJTJW';}
           .t1 td{
             height: 18px;
             line-height: 18px;
