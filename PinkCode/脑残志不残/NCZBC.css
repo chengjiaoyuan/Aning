@@ -16,15 +16,6 @@
 			list-style:none;
 			float: left;
 		}
-		@font-face {
-            font-family: 'HYJKJ';  /* project id 1016883 */
-            src: url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.eot');
-            src: url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.eot?#iefix') format('embedded-opentype'),
-            url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.woff2') format('woff2'),
-            url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.woff') format('woff'),
-            url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.ttf') format('truetype'),
-            url('https://chengjiaoyuan.github.io/Aning/Font/HYJKJ/HYJKJ.svg#iconfont') format('svg');
-        }
 		a{text-decoration: none;}
 		 ::-webkit-scrollbar {WIDTH: 12px;} 
 	    ::-webkit-scrollbar-track { border-radius: 10px;-o-border-radius: 10px;-webkit-border-radius: 10px;-ms-border-radius: 10px;-moz-border-radius: 10px; background-color: #fffaf6; } 
@@ -1228,9 +1219,9 @@
 		  color:#fff;
 		}
 		#biaoti{
-			font-family: 'HYJKJ';
-			font:'HYJKJ';
-			face:'HYJKJ';
+			font-family:'hdjxyt161e702ec717f4f';
+			font:'hdjxyt161e702ec717f4f';
+			face:'hdjxyt161e702ec717f4f';
 			font-size: 90px;
 			color:#143c33;
 			text-shadow:0 0 #ccc,0 1px #ccc,0 -1px #ccc,1px 0 #ccc, 1px 1px #ccc, 1px -1px #ccc, -1px 0 #ccc, -1px 1px #ccc, -1px -1px #ccc;
