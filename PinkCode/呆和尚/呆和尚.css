@@ -392,7 +392,7 @@
 		.nav {
 			list-style: none;
 			display: block;
-			z-index:99;
+			z-index:199;
 			-webkit-border-top-right-radius: 10px;
 	 		-webkit-border-bottom-right-radius: 10px;
 			-o-border-top-right-radius: 10px;
