@@ -1178,3 +1178,6 @@
 		-ms-animation-fill-mode:forwards;
 		filter:alpha(opacity=0); -moz-opacity:0; -khtml-opacity:0; opacity:0;-o-opacity:0;-webkit-opacity:0;-ms-opacity:0; 
 		}
+		.right{
+			position:absolute;top:650px;left:72%;z-index:200;
+		}
