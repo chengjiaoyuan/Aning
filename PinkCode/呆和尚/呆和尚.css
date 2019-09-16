@@ -497,9 +497,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showCast{
 	        display:none;
@@ -514,9 +511,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showHai{
 	        display:none;
@@ -531,9 +525,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showLyric{
 	        display:none;
@@ -548,9 +539,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showStaff{
 	        display:none;
@@ -565,9 +553,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showLink{
 	        display:none;
@@ -582,9 +567,6 @@
 		-ms-border-radius:20px; 
         z-index:100;  
         display:block;
-        position:absolute;
-        top:0px;
-        left:0px;
 	    }
 	    #showSheng{
 	        display:none;
