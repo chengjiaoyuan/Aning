@@ -22,6 +22,10 @@
 	        left: 0;
 	        width: 100%;
 	        height:1300px;
+	        font: '微软雅黑';
+	        font-family: '微软雅黑';
+	        face:'微软雅黑';
+	        background:#ADE0ED;
 	      }
 	      .bg-flower li {
 	        position: absolute;
